@@ -1,0 +1,4 @@
+Narendra Modi	BJP
+Rahul Gandhi	INC
+Arvind Kejriwal	AAP
+Mamta Banerjee  TMC
